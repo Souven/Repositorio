@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Toque la Opcion que desea utilizar</string>
+    <string name="app_name">Mensaje</string>
+    <string name = "edit_message"> Coloque aqui los sintomas</string>
+    <string name = "button_send"> Enviar Sintomas</string>
+
+</resources>
